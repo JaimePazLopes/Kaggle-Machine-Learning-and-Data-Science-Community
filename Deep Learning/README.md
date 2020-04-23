@@ -1,1 +1,1 @@
-![](JaimePazLopes-DeepLearning)
+![](JaimePazLopes-DeepLearning.png)
